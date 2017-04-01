@@ -1,5 +1,5 @@
 function [Frq,phi]=FDD(Input,Fs)
-
+% This code is used for modal analysis
 % Frequency Domain Decomposition (FDD) algorithm for modal analysis
 % This code allows you to manually select the peaks by simply drawing a
 % rectangle around the peaks.
